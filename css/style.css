@@ -575,3 +575,15 @@ figure.highlight table tbody tr td pre .clojure .title {
 figure.highlight table tbody tr td pre .deletion {
   color: #dc322f;
 }
+
+.sponsors img {
+  width: 250px;
+  position: relative;
+  top: -20px;
+}
+
+@media only screen and (max-width: 600px) {
+   .sponsors img {
+      left: 0;
+    }
+}
