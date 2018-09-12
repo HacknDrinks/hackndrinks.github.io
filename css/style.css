@@ -590,3 +590,13 @@ figure.highlight table tbody tr td pre .deletion {
       text-align: center;
     }
 }
+
+.rif-container {
+  position: relative;
+  left: 335px;
+}
+
+.rif-body {
+  position: relative;
+  left: 100px;
+}
