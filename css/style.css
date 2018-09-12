@@ -581,12 +581,12 @@ figure.highlight table tbody tr td pre .deletion {
   position: relative;
   top: -20px;
 }
+.sponsors a {
+  border-bottom: 0px;
+}
 
 @media only screen and (max-width: 600px) {
    .sponsors {
       text-align: center;
     }
-}
-.undecored {
-  border-bottom: 0px;
 }
