@@ -583,7 +583,7 @@ figure.highlight table tbody tr td pre .deletion {
 }
 
 @media only screen and (max-width: 600px) {
-   .sponsors img {
-      left: 0;
+   .sponsors {
+      text-align: center;
     }
 }
