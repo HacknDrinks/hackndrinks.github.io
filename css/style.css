@@ -600,3 +600,12 @@ figure.highlight table tbody tr td pre .deletion {
   position: relative;
   left: 100px;
 }
+
+@media only screen and (max-width: 600px) {
+    .rif-container {
+      text-align: center;
+    }
+    .rif-body {
+      text-align: center;
+    }
+}
