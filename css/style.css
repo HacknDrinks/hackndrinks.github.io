@@ -587,6 +587,6 @@ figure.highlight table tbody tr td pre .deletion {
       text-align: center;
     }
 }
-.undecored a:active {
+.undecored {
   border-bottom: 0px;
 }
