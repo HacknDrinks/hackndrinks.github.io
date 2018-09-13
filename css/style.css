@@ -606,4 +606,8 @@ figure.highlight table tbody tr td pre .deletion {
       position:relative;
       left: 0px;
     }
+    .rif-body {
+      position: relative;
+      left: 30px;
+    }
 }
