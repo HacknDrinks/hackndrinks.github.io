@@ -598,7 +598,7 @@ figure.highlight table tbody tr td pre .deletion {
 
 .rif-body {
   position: relative;
-  left: 60px;
+  left: 50px;
 }
 
 @media only screen and (max-width: 600px) {
