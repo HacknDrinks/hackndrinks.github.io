@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 body {
   background: #0f1516;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'BebasNeueRegular', sans-serif;
 }
 @media (max-width: 33.9em) {
   body {
@@ -23,7 +23,7 @@ body {
   z-index: -2;
 }
 .bg-pattern {
-  background: url("../img/bg-pattern.png") repeat;
+  background: url("../img/background.jpg") repeat;
   opacity: 0.5;
   width: 100vw;
   height: 100vh;
